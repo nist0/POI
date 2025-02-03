@@ -21,7 +21,7 @@ List from Xavière (and maybe some Polish friend):
 - [ ] Les salauds 
 - [ ] Trouble everyday 
 - [ ] A girl walks alone at night 
-- [ ] Thrist 2009
+- [x] Thrist 2009
 - [ ] A Bruxa 
 - [ ] Exuma 
 - [ ] Lamb
