@@ -6,7 +6,7 @@ This page presents list of media that I have to watch/listen/study...
 ## Movies
 
 List from Xavière (and maybe some Polish friend):
-- [ ] 4 months 3 weeks and 2 days (2007)
+- [x] 4 months 3 weeks and 2 days (2007)
 - [ ] Les amours imaginaires 
 - [ ] Look away
 - [ ] Taipei story 1985
